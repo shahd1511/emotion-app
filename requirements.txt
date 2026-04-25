@@ -2,7 +2,7 @@ streamlit
 librosa
 numpy
 joblib
-tensorflow
+tensorflow==2.15.1
 imageio-ffmpeg
 streamlit-mic-recorder
 soundfile
