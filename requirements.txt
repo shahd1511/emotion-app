@@ -1,0 +1,8 @@
+streamlit
+librosa
+numpy
+joblib
+tensorflow
+imageio-ffmpeg
+streamlit-mic-recorder
+soundfile
